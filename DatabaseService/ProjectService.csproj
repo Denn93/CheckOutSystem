@@ -9,8 +9,8 @@
     <ProjectGuid>{655B767E-A70B-49DA-A2A7-73C1874D644F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DatabaseService</RootNamespace>
-    <AssemblyName>DatabaseService</AssemblyName>
+    <RootNamespace>ProjectService</RootNamespace>
+    <AssemblyName>ProjectService</AssemblyName>
     <ProjectTypeGuids>{3D9AD99F-2412-4246-B90B-4EAA41C64699};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <StartArguments>/client:"WcfTestClient.exe"</StartArguments>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
