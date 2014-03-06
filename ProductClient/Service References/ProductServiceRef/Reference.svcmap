@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8fe4aaac-1a1d-4c35-bd9c-accab7f4f78d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?swdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProductService.wsdl" MetadataType="Wsdl" ID="a26e338c-c4fe-4b82-82ca-4949ee98bbed" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="53ff58b7-5806-4e95-b977-3a43b10d740e" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="250765fa-691b-40b0-805a-a81e6fb3c716" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="a5d007bb-2dd8-4b9a-bca2-53a3bede0b96" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="2096f8a3-5359-4c16-9fd8-95fd75fbce30" SourceId="1" SourceUrl="http://localhost:8080/Design_Time_Addresses/DatabaseService/ProductService/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
